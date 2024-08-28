@@ -1,0 +1,2 @@
+# imgdemo
+go imagick test
